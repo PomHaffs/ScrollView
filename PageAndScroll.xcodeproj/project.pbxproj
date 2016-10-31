@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					FEA004871DC6FE6E00045CD8 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = KDG44MVL2D;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KDG44MVL2D;
 				INFOPLIST_FILE = PageAndScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PomHaffs.PageAndScroll;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KDG44MVL2D;
 				INFOPLIST_FILE = PageAndScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PomHaffs.PageAndScroll;
